@@ -1,4 +1,4 @@
 # webscraping in R
-This exercise was part of the Data Wrangling assigenment where using R lanagauge the data is web scrapped from the website. 
+This exercise was part of the Data Wrangling assigenment where R language is used to scrape the data. 
 
-You can understand the code and used it for practice as a student but not for commerical purpose.
+As a student and learner, understand the concept as a student but no commerical use.
